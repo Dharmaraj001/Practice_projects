@@ -1,0 +1,30 @@
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 5px 11px;
+  color: white;
+  background: var(--main-bg-color);
+  border: 2px solid #aa9c9c;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: 'Roboto Slab', serif;
+}
+.btn:hover{
+  color: rgb(233, 233, 233);
+  font-weight: bold;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.logo:hover {
+  cursor: pointer;
+  
+}
+
